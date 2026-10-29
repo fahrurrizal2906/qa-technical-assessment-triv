@@ -1,0 +1,8 @@
+id\triv\steps\RegisterSteps.class
+id\triv\hooks\Hooks.class
+id\triv\pages\LoginPage.class
+id\triv\pages\RegisterPage.class
+id\triv\steps\LoginSteps.class
+id\triv\config\DriverFactory.class
+id\triv\steps\AppCommonSteps.class
+id\triv\runners\RunCucumberTest.class
