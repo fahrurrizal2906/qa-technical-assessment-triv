@@ -247,11 +247,11 @@ public void submitEmptyForm() {
     );
 
     email.clear();
-    email.sendKeys("fahrurrizaaaaaal@gmail.com");
+    email.sendKeys("khabibfahrurrizal91234@gmail.com");
 
     // 4. Isi Password
     scrollToField("id.co.triv:id/in_password");
-    
+
     WebElement password = wait.until(
             ExpectedConditions.visibilityOfElementLocated(
                     passwordField

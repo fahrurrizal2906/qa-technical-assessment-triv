@@ -1,0 +1,7 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Login TRIV","1","0","LOG-003  login with invalid credentials","0"
+"0","","0","Register TRIV","1","0","REG-003 Register using valid dummy data","0"
+"0","","0","Register TRIV","1","0","REG-002 Validate empty registration form","0"
+"0","","0","Login TRIV","1","0","LOG-001 Open login screen","0"
+"0","","0","Register TRIV","1","0","REG-001 Open registration screen","0"
+"0","","0","Login TRIV","1","0","LOG-002  login with valid credentials","0"
