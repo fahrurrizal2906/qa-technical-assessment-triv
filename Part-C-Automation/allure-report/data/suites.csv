@@ -1,0 +1,19 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"  As a registered TRIV user
+  I want to access the login screen and submit credentials
+  So that I can verify login behavior","35734","LOG-002  login with valid credentials","","Fri Oct 30 09:04:39 WIB 2026","passed","Fri Oct 30 09:05:14 WIB 2026","","Login TRIV","LOG-002  login with valid credentials",""
+"  As a new user
+  I want to access the registration screen
+  So that I can verify registration validation","50778","REG-003 Register using valid dummy data","","Fri Oct 30 09:07:06 WIB 2026","passed","Fri Oct 30 09:07:57 WIB 2026","","Register TRIV","REG-003 Register using valid dummy data",""
+"  As a registered TRIV user
+  I want to access the login screen and submit credentials
+  So that I can verify login behavior","34265","LOG-001 Open login screen","","Fri Oct 30 09:04:04 WIB 2026","passed","Fri Oct 30 09:04:39 WIB 2026","","Login TRIV","LOG-001 Open login screen",""
+"  As a new user
+  I want to access the registration screen
+  So that I can verify registration validation","43322","REG-002 Validate empty registration form","","Fri Oct 30 09:06:23 WIB 2026","passed","Fri Oct 30 09:07:06 WIB 2026","","Register TRIV","REG-002 Validate empty registration form",""
+"  As a new user
+  I want to access the registration screen
+  So that I can verify registration validation","34292","REG-001 Open registration screen","","Fri Oct 30 09:05:49 WIB 2026","passed","Fri Oct 30 09:06:23 WIB 2026","","Register TRIV","REG-001 Open registration screen",""
+"  As a registered TRIV user
+  I want to access the login screen and submit credentials
+  So that I can verify login behavior","34058","LOG-003  login with invalid credentials","","Fri Oct 30 09:05:14 WIB 2026","passed","Fri Oct 30 09:05:49 WIB 2026","","Login TRIV","LOG-003  login with invalid credentials",""
