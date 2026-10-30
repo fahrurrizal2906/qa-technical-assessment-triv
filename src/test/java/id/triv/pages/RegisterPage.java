@@ -247,7 +247,7 @@ public void submitEmptyForm() {
     );
 
     email.clear();
-    email.sendKeys("khabibfahrurrizal91234@gmail.com");
+    email.sendKeys("khabibfahrurrizal202@gmail.com");
 
     // 4. Isi Password
     scrollToField("id.co.triv:id/in_password");

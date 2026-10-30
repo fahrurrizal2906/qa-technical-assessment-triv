@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: id.triv.runners.RunCucumberTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 226.0 s -- in id.triv.runners.RunCucumberTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 235.1 s -- in id.triv.runners.RunCucumberTest
